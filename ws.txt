@@ -1,0 +1,2 @@
+{"type":"connection_init"}
+{"id":"1","type":"subscribe","payload":{"query":"{ helloWorld }"}}
